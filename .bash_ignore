@@ -18,8 +18,8 @@ ping*
 init*
 reboot*
 check*
-su*
-sudo su*
+su -
+su
 less*
 tail*
 cat*
